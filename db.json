@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "9f406e4a-175a-4deb-ae67-0d072e1047e7",
+      "title": "VIRAT",
+      "status": true
+    },
+    {
+      "id": "47125d82-0f27-41fe-bf6b-bfb2723714c2",
+      "title": "GIBBS",
+      "status": false
+    },
+    {
+      "id": "3b91cf49-edef-48ca-a933-13638ce724d1",
+      "title": "SACHIN",
+      "status": true
+    }
+  ]
+}
